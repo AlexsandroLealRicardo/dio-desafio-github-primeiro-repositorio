@@ -31,7 +31,7 @@ console.log(array);*/
 /*let novoArray = array.slice(0,3);
 console.log(novoArray);*/
 
-let object = {String : 'string',Number: 1, Boolean: true, array:["array"], objectInterno:{objectInterno: 'objectInterno'}};
+/*let object = {String : 'string',Number: 1, Boolean: true, array:["array"], objectInterno:{objectInterno: 'objectInterno'}};
 console.log(object);
 
 var string = object.string;
@@ -41,5 +41,7 @@ var arrayInterno = object.array;
 console.log(arrayInterno);
 
 var {string, Boolean, objectInterno} = object;
-console.log(string,Boolean,objectInterno);
+console.log(string,Boolean,objectInterno);*/
+
+
 
