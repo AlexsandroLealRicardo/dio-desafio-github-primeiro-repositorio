@@ -5,3 +5,5 @@ Repositório criado para o Desafio de Projeto.
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax)
 
 [HtmlCheatSheet](https://htmlcheatsheet.com/css/)
+
+[World Wide Web Consortium](https://www.w3.org/)
