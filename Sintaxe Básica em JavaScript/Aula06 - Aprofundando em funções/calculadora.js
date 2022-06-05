@@ -87,6 +87,7 @@ function calculadora() {
         case 1:
             soma();
             break;
+           
         case 2:
             subtracao();
             break;
@@ -104,4 +105,4 @@ function calculadora() {
             break;
     }
 }
-calculadora(); 
+calculadora(); +
